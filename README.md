@@ -12,7 +12,7 @@ And if that wasn’t enough to keep me busy — I’m also the father of twin gi
 
 If you'd like to support my work by sending cash, tipping, or donating so I can continue to provide free content and themes — I use the following:
 
-- [Support me on Ko-fi](https://ko-fi.com/mmistakes)
-- [🍵 Buy me a coffee](https://www.buymeacoffee.com/mmistakes)
-- [ PayPal me](https://www.paypal.me/mmistakes)
-- [Send 💸 via Cash App](https://cash.app/$mmistakes)
+- [PayPal](https://www.paypal.me/mmistakes)
+- [Cash App](https://cash.app/$mmistakes)
+- [Buy me a coffee](https://www.buymeacoffee.com/mmistakes)
+- [Ko-fi](https://ko-fi.com/mmistakes)
