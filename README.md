@@ -15,4 +15,3 @@ If you'd like to support my work by sending cash, tipping, or donating so I can 
 - [PayPal](https://www.paypal.me/mmistakes)
 - [Cash App](https://cash.app/$mmistakes)
 - [Buy me a coffee](https://www.buymeacoffee.com/mmistakes)
-- [Ko-fi](https://ko-fi.com/mmistakes)
