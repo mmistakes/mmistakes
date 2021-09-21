@@ -10,7 +10,7 @@ I’m also the father of 👭 twin girls and married to a [subscription box addi
 
 ---
 
-If you'd like to support my work you can sponsor me through GitHub or by sending cash, tipping, or donating through the following:
+If you'd like to support my work you can [sponsor me through GitHub](https://github.com/sponsors/mmistakes) or by sending cash, tipping, or donating through the following:
 
 - [PayPal](https://www.paypal.me/mmistakes)
 - [Cash App](https://cash.app/$mmistakes)
